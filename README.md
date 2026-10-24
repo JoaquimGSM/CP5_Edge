@@ -464,18 +464,11 @@ Utilize o STH-Comet para consultar os históricos de temperatura, umidade e lumi
 ## Estrutura do repositório
 
 ```text
-CP05-Edge-Computing/
-|
-|-- README.md
-|-- sketch.ino
-|-- diagram.json
-|-- libraries.txt
-|
-`-- evidencias/
-    |-- wokwi.png
-    |-- mymqtt.png
-    |-- orion.png
-    `-- historico.png
+CP5_Edge/
+├── README.md
+├── sketch.ino
+├── diagram.json
+└── libraries.txt
 ```
 
 ---
